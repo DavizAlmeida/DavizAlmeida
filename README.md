@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DavizAlmeida
-- 👀 I’m interested in coding, astrophography and video games 
-- 🌱 I’m currently learning Advanced SQL, Python and Data Ingestion
-- 💞️ I’m looking to collaborate on idk
+- 👀 I’m interested in coding, astrophotography, bible study and video games 
+- 🌱 I’m currently learning Advanced SQL, Python, and Data Ingestion
+- 💞️ I’m looking to collaborate on support KPIs globally sync
 - 📫 How to reach me : Slack @Davi.Almeida
 
 <!---
